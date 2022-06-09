@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Welcome to my profile! / Bem-vindo(a) ao meu perfil 😁
 
  <div>
   <a href="https://github.com/TheL1ght">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheL1ght&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
   
-  ### Minhas redes sociais logo abaixo!
+  ### My social media right below! / Minhas redes sociais logo abaixo!
  
 <div> 
  <a href="discordapp.com/users/188756521105096704" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
